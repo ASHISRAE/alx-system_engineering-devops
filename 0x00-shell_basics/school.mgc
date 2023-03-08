@@ -1,2 +1,2 @@
-- echo -e '0 string SCHOOL School\n
+0 string SCHOOL School
 !:mime School' > school.mgc
